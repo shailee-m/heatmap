@@ -1,2 +1,2 @@
-# heatmap.github.io
+# heatmap
 Heatmap in D3
